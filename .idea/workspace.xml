@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="979ab8f7-b226-4f70-ace8-0e212b6742ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="82d809a6-64b2-41c0-984c-7908c7349960" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4.12">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/eftec/bladeone" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lmIzjibQz2dduyZHrxNoO6vByt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/emensa/pages" />
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/beispiele" />
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="e-mensa" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/public" port="9000">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="979ab8f7-b226-4f70-ace8-0e212b6742ae" name="Default Changelist" comment="" />
+      <created>1608196103593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608196103593</updated>
+      <workItem from="1608196104671" duration="11381000" />
+      <workItem from="1608286016089" duration="6233000" />
+      <workItem from="1608403226431" duration="10000" />
+      <workItem from="1608636827288" duration="364000" />
+      <workItem from="1609405949835" duration="3235000" />
+      <workItem from="1609411594876" duration="409000" />
+      <workItem from="1609836102282" duration="2706000" />
+      <workItem from="1610022782923" duration="21775000" />
+      <workItem from="1610368901682" duration="1628000" />
+      <workItem from="1610454102879" duration="20000" />
+      <workItem from="1610469387311" duration="43000" />
+      <workItem from="1610469431371" duration="871000" />
+      <workItem from="1610476907224" duration="8165000" />
+      <workItem from="1610551432876" duration="7270000" />
+      <workItem from="1610702899169" duration="2204000" />
+      <workItem from="1610709053502" duration="137000" />
+      <workItem from="1610709479889" duration="830000" />
+      <workItem from="1611047556491" duration="1606000" />
+      <workItem from="1614421539980" duration="1013000" />
+      <workItem from="1614530071435" duration="2850000" />
+      <workItem from="1614678061607" duration="223000" />
+      <workItem from="1614715978030" duration="536000" />
+      <workItem from="1617873621662" duration="251000" />
+      <workItem from="1617878898550" duration="767000" />
+      <workItem from="1619369938786" duration="145000" />
+      <workItem from="1622754554684" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2319" y="117" width="1071" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617873721242">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.985/1920.25.1920.1055@0.25.1920.985" timestamp="1609411757662" />
+    <state x="2319" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.985/1920.25.1920.1055@1920.25.1920.1055" timestamp="1617873721242" />
+    <state x="220" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610709695538">
+      <screen x="0" y="25" width="1920" height="985" />
+    </state>
+    <state x="220" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.985/1920.25.1920.1055@0.25.1920.985" timestamp="1610709695538" />
+    <state width="1878" height="159" key="GridCell.Tab.0.bottom" timestamp="1614545583932">
+      <screen x="0" y="25" width="1920" height="985" />
+    </state>
+    <state width="1638" height="154" key="GridCell.Tab.0.bottom/0.25.1680.955@0.25.1680.955" timestamp="1610551920143" />
+    <state width="1878" height="159" key="GridCell.Tab.0.bottom/0.25.1920.985/1920.25.1920.1055@0.25.1920.985" timestamp="1614545583932" />
+    <state width="1878" height="159" key="GridCell.Tab.0.center" timestamp="1614545583931">
+      <screen x="0" y="25" width="1920" height="985" />
+    </state>
+    <state width="1638" height="154" key="GridCell.Tab.0.center/0.25.1680.955@0.25.1680.955" timestamp="1610551920142" />
+    <state width="1878" height="159" key="GridCell.Tab.0.center/0.25.1920.985/1920.25.1920.1055@0.25.1920.985" timestamp="1614545583931" />
+    <state width="1878" height="159" key="GridCell.Tab.0.left" timestamp="1614545583931">
+      <screen x="0" y="25" width="1920" height="985" />
+    </state>
+    <state width="1638" height="154" key="GridCell.Tab.0.left/0.25.1680.955@0.25.1680.955" timestamp="1610551920141" />
+    <state width="1878" height="159" key="GridCell.Tab.0.left/0.25.1920.985/1920.25.1920.1055@0.25.1920.985" timestamp="1614545583931" />
+    <state width="1878" height="159" key="GridCell.Tab.0.right" timestamp="1614545583931">
+      <screen x="0" y="25" width="1920" height="985" />
+    </state>
+    <state width="1638" height="154" key="GridCell.Tab.0.right/0.25.1680.955@0.25.1680.955" timestamp="1610551920142" />
+    <state width="1878" height="159" key="GridCell.Tab.0.right/0.25.1920.985/1920.25.1920.1055@0.25.1920.985" timestamp="1614545583931" />
+    <state x="1261" y="445" key="NewPhpFileDialog" timestamp="1610630107075">
+      <screen x="0" y="25" width="1920" height="985" />
+    </state>
+    <state x="1103" y="432" key="NewPhpFileDialog/0.25.1680.955@0.25.1680.955" timestamp="1610035526522" />
+    <state x="1261" y="445" key="NewPhpFileDialog/0.25.1920.985/1920.25.1920.1055@0.25.1920.985" timestamp="1610630107075" />
+  </component>
+</project>

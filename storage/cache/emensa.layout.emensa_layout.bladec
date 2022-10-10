@@ -1,0 +1,29 @@
+<?php
+/**
+ * Praktikum DBWT. Autoren:
+ * Phillip, Jansen, 3234273
+ * Thomas, Nold, 3030257
+ */
+?>
+<!DOCTYPE html>
+<html>
+<head>
+ <title>E-Mensa</title>
+ <link rel="stylesheet" href="/css/stylesheet.css">
+</head>
+<body>
+<div id="grid">
+ <?php $this->startSection('header'); ?>
+ <?php echo $this->yieldSection(); ?>
+ <div class="border"><hr></div>
+ <div class="border"><hr> </div>
+ <div class="border"><hr></div>
+ <div></div>
+ <div id="einträge"><?php $this->startSection('main'); ?>
+ <?php echo $this->yieldSection(); ?></div>
+</div>
+<hr>
+<?php $this->startSection('footer'); ?>
+ <?php echo $this->yieldSection(); ?>
+</body>
+</html>

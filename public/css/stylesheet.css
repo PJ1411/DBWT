@@ -1,0 +1,145 @@
+#grid{
+    display: grid;
+    grid-template-columns: 150px auto 100px;
+    grid-template-rows: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    gap:20px;
+}
+#logo{
+    border-style: solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#header{
+    min-width: 500px;
+    max-width: 800px;
+    border-style: solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: auto;
+}
+#header>a{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#nutzer{
+    border-style: solid;
+    min-width: 200px;
+    max-width: 300px;
+    margin-left: -100px;
+    margin-right: auto;
+}
+#nutzerList{
+    list-style-type: none;
+}
+.border~div{
+    margin-left: -20px;
+}
+#leer{margin-bottom: 700px;}
+#einträge {
+    text-align: left;
+}
+#tank{
+    display: block;
+    border-style: solid;
+    width: 600px;
+
+}
+
+table #menue{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    border-bottom-style: solid;
+
+
+}
+table{
+    margin-right: auto;
+    border-spacing: 0px;
+}
+th{
+
+    border-top-style: solid;
+    border-left-style: solid;
+}
+th:last-child{
+    border-right-style: solid;
+}
+td{
+    border-top-style: solid;
+    border-left-style: solid;
+}
+td:last-child{
+    border-right-style: solid;
+}
+tr:last-child>td{
+    border-spacing: 10px;
+    border-bottom-style: solid;
+}
+
+#kontakt-grid{
+    font-size: small;
+
+    width: 450px;
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto auto;
+
+}
+#kontakt-inline{
+
+    display: inline;
+}
+#sub{
+    margin-left: 50px;
+}
+#kontakt{
+    width: 600px;
+}
+footer{
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer div{
+    display: inline;
+    border-right-style: solid;
+    border-right-width: thin;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+footer div:last-child{
+    border-right-style: none;
+}
+
+@media only screen and (max-width: 599px) {
+    #container{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (min-width: 600px) {
+    div #container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .item{
+        width: 100%;
+    }
+    #container>div{
+        flex-direction: row;
+        flex:0 50%;
+    }
+}
+
+.hervorgehoben{
+    background-color: yellow;
+}
+
+
+
+

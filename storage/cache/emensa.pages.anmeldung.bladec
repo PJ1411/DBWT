@@ -1,0 +1,30 @@
+<?php $_shouldextend[1]=1; ?>
+
+<?php $this->startSection('header'); ?>
+ <div id="logo"><a href="/">E-Mensa Logo</a> </div>
+ <div id="header">
+ <a>Anmeldung</a>
+ </div>
+ <div></div>
+<?php $this->stopSection(); ?>
+
+<?php $this->startSection('main'); ?>
+ <h3>Anmeldung bei der E-Mensa</h3>
+ <form action="anmeldung_verifizieren" method="POST">
+ <label for="email">E-Mail</label>
+ <input id="email" name="email" type="email" required> <br>
+ <label for="email">Passwort </label>
+ <input id="passwort" name="passwort" type="password" required> <br>
+ <button type="submit">Anmelden</button>
+ </form>
+
+<?php $this->stopSection(); ?>
+
+<?php $this->startSection('footer'); ?>
+ <footer>
+ <div>(c) E-Mensa GmbH</div>
+ <div> Phillip Jansen & Thomas Nold </div>
+ <div> <a href="https://www.fh-aachen.de/impressum/">Impressum</a></div>
+ </footer>
+<?php $this->stopSection(); ?>
+<?php if (isset($_shouldextend[1])) { echo $this->runChild('emensa.layout.emensa_layout'); } ?>
